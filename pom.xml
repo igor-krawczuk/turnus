@@ -11,12 +11,12 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<tycho-version>0.23.0</tycho-version>
 		<eclipse-repository>http://download.eclipse.org/releases/mars</eclipse-repository>
 		<xtext-repository>http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases</xtext-repository>
 		<xtend-repository>http://build.eclipse.org/common/xtend/maven/</xtend-repository>
-		<xtext-version>2.10.0</xtext-version>
 		<orcc-repository>http://www.turnus.co/addons/orcc/</orcc-repository>
+		<xtext-version>2.10.0</xtext-version>
+		<tycho-version>0.26.0</tycho-version>
 	</properties>
 
 	<repositories>
